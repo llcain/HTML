@@ -1,0 +1,7 @@
+Google margin collapsing
+Important point about margin and padding: Technically, you should use the margin property to separate elements and the padding property to add space between the border and content area of an elements
+Responsive Hamburger menu - CSS  codepen - https://codepen.io/sacsam005/pen/xxpLgyy
+Google - uncaught typeerror cannot read properties of null (reading 'addeventlistener') - Cannot read property - https://stackoverflow.com/questions/26107125/cannot-read-property-addeventlistener-of-null - https://stackoverflow.com/questions/2075337/uncaught-referenceerror-is-not-defined
+Google - uncaught referenceerror $ is not defined - https://stackoverflow.com/questions/2075337/uncaught-referenceerror-is-not-defined
+Google - <span class=fa fa-star checked></span> - https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_star_rating 
+Google - <i class="bx bxs-time"></i> - https://icon-sets.iconify.design/bx/bxs-time/ - https://codepen.io/sanketbodke/pen/qBxMxeG
