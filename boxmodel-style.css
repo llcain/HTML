@@ -54,10 +54,10 @@ body {
 
 .box1 {
     /* 50% of the width of the parent */
-    width: 50%;
-    height: 100vh;
+    width: 25%;
+    height: 600px;
     background-color: purple;
-    border-top: 3px solid green;
+    
 }
 
 p {
